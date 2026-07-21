@@ -21,4 +21,4 @@ This Power BI dashboard analyzes customer sales performance.
 
 ## Dashboard
 -Customer_Sales_Performance_Dashboard.pbix
--Customer_Sales_Performance_Dashboard.png
+![Dasboard](Customer_Sales_Performance_Dashboard.png)
